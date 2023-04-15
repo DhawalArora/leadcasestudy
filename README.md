@@ -17,7 +17,7 @@ The case study involves building a logistic regression model using Recursive Fea
 Results and Conclusion:
 The final logistic regression model achieved an accuracy of 91%, sensitivity (recall) of around 81%, and specificity of around 97% using a cutoff value of 0.3. The model was also applied to test data, and the results showed an accuracy of 90%, sensitivity of 96%, specificity of around 87%, precision score of 83%, and recall score of 96%. Based on the results, recommendations are made for the marketing team to focus on specific types of leads for improved lead conversion.
 
-## Usage:
+### Usage:
 
 Clone the repository to your local machine.
 Install the required libraries (Pandas, Seaborn, Matplotlib, Sklearn, Statsmodel) using pip or conda.
