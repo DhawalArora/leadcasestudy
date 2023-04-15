@@ -3,6 +3,7 @@
 This repository contains the code and data for a case study on improving lead conversion rate for X Education, a company that markets courses online. The case study involves building a logistic regression machine learning model using Python and Jupyter Notebook.
 
 Problem Statement:
+
 The lead conversion rate of X Education is poor, and the company wants to understand which data variables may play an important role in increasing the lead conversion rate. The goal is to identify potential leads that are more likely to choose a course and focus on communicating with them effectively.
 
 Data and Libraries:
