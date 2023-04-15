@@ -1,5 +1,4 @@
-# leadcasestudy
-README for Leads Case Study
+# README for Leads Case Study
 
 This repository contains the code and data for a case study on improving lead conversion rate for X Education, a company that markets courses online. The case study involves building a logistic regression machine learning model using Python and Jupyter Notebook.
 
