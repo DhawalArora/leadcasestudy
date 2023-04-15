@@ -20,8 +20,13 @@ The final logistic regression model achieved an accuracy of 91%, sensitivity (re
 ### Usage:
 
 Clone the repository to your local machine.
+
 Install the required libraries (Pandas, Seaborn, Matplotlib, Sklearn, Statsmodel) using pip or conda.
+
 Open the Jupyter Notebook file (.ipynb) in a Jupyter Notebook environment.
+
 Follow the step-by-step instructions in the notebook to run the code and analyze the results.
+
 You can modify the code or experiment with different approaches to further enhance the results.
+
 Note: Please refer to the license file for terms of use and distribution.
